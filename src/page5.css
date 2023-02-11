@@ -1,0 +1,66 @@
+.badaDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4px;
+    background-color: rgb(193, 237, 237);
+}
+
+
+.mainpage{
+    width: 330px;
+    height: 442px;
+    border: 2px solid rgba(231, 237, 240, 0.912);
+    background-color: rgb(204, 236, 226);
+    /* text-align: center; */
+}
+.form{
+    padding: 15px;
+}
+
+.maintitle{
+    width: 250px;
+    height: 30px;
+    border: none;
+    outline: none;
+}
+.textarea{
+    width: 271px;
+    height: 50px;
+    padding: 0px 0px;
+    margin-left: 20px;
+    outline: none;
+
+    
+}
+
+.upvoting{
+    width: 37px;
+    height: 37px;
+    cursor: pointer;
+    padding: 6px 0px;
+}
+.downvoting{
+    margin-top: 10px;
+    width: 37px;
+    height: 37px;
+    cursor: pointer;
+}
+
+.imgpost{
+    text-align: center; 
+    width: 297px;
+    height: 210px;
+}
+
+.imgflex{
+        display: flex;
+    }
+
+    .voting{
+        padding: 14px;
+    }
+
+.savebutton{
+    margin: 85px 225px;
+}

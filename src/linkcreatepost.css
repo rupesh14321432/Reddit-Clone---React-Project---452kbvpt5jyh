@@ -1,0 +1,42 @@
+.flexbaladiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.badaDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4px;
+    background-color: rgb(193, 237, 237);
+}
+
+
+.mainpagev{
+    width: 530px;
+    height: 330px;
+    border: 2px solid rgba(231, 237, 240, 0.912);
+    background-color: rgb(204, 236, 226);
+    margin: 0px 0px;
+    /* text-align: center; */
+}
+.formv{
+    padding: 15px;
+}
+
+.maintitlev{
+    padding: 0px 27px;
+    width: 428px;
+    height: 34px;
+    border: none;
+    outline: none;
+}
+.textareav{
+    width: 475px;
+    height: 189px;
+    padding: 0px 0px;
+    margin-left: 3px;
+}
+   
